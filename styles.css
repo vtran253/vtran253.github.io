@@ -1,7 +1,7 @@
 .header {
   padding: 80px; /* some padding */
   text-align: center; /* center the text */
-  background: #6d048d; /* green background */
+  background: #6d048d; /* purple background */
   color: white; /* white text color */
 }
 
@@ -17,7 +17,7 @@
 
 /* Style the navigation bar links */
 .navbar a {
-  float: left; /* Make sure that the links stay side-by-side */
+  float: center; /* Make sure that the links stay side-by-side */
   display: block; /* Change the display to block, for responsive reasons (see below) */
   color: white; /* White text color */
   text-align: center; /* Center the text */
